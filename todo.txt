@@ -1,0 +1,5 @@
+http://ifeve.com/zookeeper-lock/
+1.zookeeper 使用场景
+|item       | know  |  coding|
+1.分布式锁
+2.服务注册  | done  |
