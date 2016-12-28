@@ -1,0 +1,27 @@
+#folder
+target/
+.vagrant/
+
+#fixed file
+.class
+.exe
+.log
+.prefs
+.classpath
+.metadata
+.settings
+.DS_Store
+Thumbs.db
+.project
+*.iml
+*.ipr
+*.iws
+*.tar.gz
+*.bak
+.idea
+*.log
+*.swp
+*.swo
+antx.properties
+application.properties
+logback.xml
